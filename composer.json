@@ -1,0 +1,14 @@
+{
+    "name": "marcelo/copper-issue",
+    "type": "project",
+    "require": {
+        "smith-carson/prosperworks-sdk": "^1.0",
+        "vlucas/phpdotenv": "^4.1"
+    },
+    "authors": [
+        {
+            "name": "Marcelo Andrade R.",
+            "email": "marcelo.andrade.r@gmail.com"
+        }
+    ]
+}
